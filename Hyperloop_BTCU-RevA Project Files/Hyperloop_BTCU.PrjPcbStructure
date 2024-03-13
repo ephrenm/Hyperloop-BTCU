@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=0_Overview.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=0_Overview.SchDoc|Designator=U_1_Power|SchDesignator=U_1_Power|FileName=1_Power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=1_Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=0_Overview.SchDoc|Designator=U_2_MCU|SchDesignator=U_2_MCU|FileName=2_MCU.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=2_MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=0_Overview.SchDoc|Designator=U_3_Peripherals|SchDesignator=U_3_Peripherals|FileName=3_Peripherals.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=3_Peripherals.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
